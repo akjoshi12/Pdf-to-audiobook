@@ -1,0 +1,23 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+.card {
+    border: none;
+}
+
+.large-icon {
+    font-size: 4rem;
+}
+
+.footer {
+    background-color: #f8f9fa;
+}
